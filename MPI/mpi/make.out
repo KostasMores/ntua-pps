@@ -1,0 +1,2 @@
+mpicc -O3 -lm -Wall -DTEST_CONV Jacobi_mpi2.c utils.c -o jacobi2
+mpicc -O3 -lm -Wall -DTEST_CONV GaussSeidelSOR_mpi.c utils.c -o seidelsor
