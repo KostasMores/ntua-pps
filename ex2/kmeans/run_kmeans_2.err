@@ -1,0 +1,6 @@
+/var/spool/torque/mom_priv/jobs/493873.localhost.SC: line 22: 14233 Segmentation fault      ./kmeans_omp_reduction -s 256 -n 16 -c 16 -l 10
+/var/spool/torque/mom_priv/jobs/493873.localhost.SC: line 22: 14235 Segmentation fault      ./kmeans_omp_reduction -s 256 -n 16 -c 16 -l 10
+/var/spool/torque/mom_priv/jobs/493873.localhost.SC: line 22: 14239 Segmentation fault      ./kmeans_omp_reduction -s 256 -n 16 -c 16 -l 10
+/var/spool/torque/mom_priv/jobs/493873.localhost.SC: line 22: 14247 Segmentation fault      ./kmeans_omp_reduction -s 256 -n 16 -c 16 -l 10
+/var/spool/torque/mom_priv/jobs/493873.localhost.SC: line 22: 14263 Segmentation fault      ./kmeans_omp_reduction -s 256 -n 16 -c 16 -l 10
+/var/spool/torque/mom_priv/jobs/493873.localhost.SC: line 22: 14295 Segmentation fault      ./kmeans_omp_reduction -s 256 -n 16 -c 16 -l 10
